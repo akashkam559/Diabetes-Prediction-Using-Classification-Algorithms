@@ -15,9 +15,14 @@ Table of Content
 
 Demo
 -------
-Link: https://diabetes--predictor-api.herokuapp.com/
+Link: https://diabetes-predictor-webapp.herokuapp.com/
 
-![Diabetes Prediction](https://user-images.githubusercontent.com/41515202/95001330-75afbb00-05e6-11eb-823d-3b4b98e9321b.png)
+
+![Diabetes1](https://user-images.githubusercontent.com/41515202/95026746-3601d580-06b1-11eb-9caf-7ec0657a5f42.PNG)
+![Diabetes2](https://user-images.githubusercontent.com/41515202/95026747-37330280-06b1-11eb-859b-c043f5159d83.png)
+![Diabetes3](https://user-images.githubusercontent.com/41515202/95026749-37330280-06b1-11eb-888d-bf7bd2bc45bd.png)
+
+
 
 
 Directory Tree
